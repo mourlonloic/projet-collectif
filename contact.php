@@ -10,13 +10,48 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-        <link rel="stylesheet" href="content/css/style.css">
+    <link rel="stylesheet" href="content/css/style.css">
 
     <title>Contact Five Forward</title>
 </head>
 
 <body>
     <?php include_once("header.php"); ?>
+
+
+    <div class="container">
+        <div class="row">
+            <div class="col"></div>
+            <div class="col-8">
+                <form method="post" action="content/php/verif.php">
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Adresse mail</label>
+                        <input name="mail" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="contact@fiveforward.fr">
+                    </div>
+                    <div class="form-group">
+                        <label for="objet">Objet</label>
+                        <input name="objet" type="text" class="form-control" id="objet" placeholder="ex :demande de devis">
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleFormControlTextarea1">Contenu</label>
+                        <textarea name="contenu" class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Envoyer</button>
+                </form>
+            </div>
+            <div class="col"></div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col"></div>
+            <div class="col-8 d-flex justify-content-center">
+
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2530.6828890407373!2d3.0190791435502544!3d50.63300747096184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c2d55c764ab439%3A0x2e9bfd5c48d283b!2sEuraTechnologies!5e0!3m2!1sfr!2sfr!4v1565010418198!5m2!1sfr!2sfr"width="500" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+            </div>
+            <div class="col"></div>
+        </div>
+    </div>
 
 
 
