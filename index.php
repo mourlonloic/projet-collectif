@@ -1,9 +1,3 @@
-<?php
-
-$dbb = include_once("content/php/pdo.php");
-
-?>
-
 <!doctype html>
 <html lang="en">
 
