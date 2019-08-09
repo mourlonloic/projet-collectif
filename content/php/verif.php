@@ -2,9 +2,10 @@
 
 include_once("config.php");
 
+$erreurs = [];
+
 if ($_SERVER['REQUEST_METHOD'] === "POST")
 {   
-    $erreurs = [];
     
     $mail = isset($_POST['mail']) ? htmlentities(trim($_POST['mail'])) : null;
     $objet = isset($_POST['objet']) ? htmlentities(trim($_POST['objet'])) : null;
@@ -36,13 +37,7 @@ if ($_SERVER['REQUEST_METHOD'] === "POST")
         $q->execute();
 
     }
-    else
-    {
-        echo "<pre>";
-        print_r($erreurs);
-        echo "</pre>";
-    }
-    // header("location: ../../contact.php");
+    header("location: ../../contact.php");
 } 
 
 
