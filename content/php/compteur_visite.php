@@ -45,7 +45,7 @@ function compteur($afficher = 0)
                     if($ligne != "")
                     {
                         $ligneStat = explode(":", $ligne);
-                        $statTotal += $ligneStat[1];
+                        $statTotal += (int)$ligneStat[1];
                     }
                 }
                 return $statTotal;

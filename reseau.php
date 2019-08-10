@@ -18,9 +18,34 @@
 <body>
     <?php include_once("header.php"); ?>
 
-    <h1>RESEAUX SOCIAUX</h1>
+    <!-- Carte gauche -->
+    <div class="row marge_carte">
+        <div class="col d-flex justify-content-center">
+            <div class="card" style="width: 21rem;">
+            <img src="..." class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Création des pages sur les RS</h5>
+                <p class="card-text">Vous souhaitez présenter votre entreprise sur les réseaux ? </p>
+                <p>Posséder votre propre page auprès de votre communauté ?</p>
+                <a href="#" id='bouton_rs' class="btn btn-primary">Plus d'infos sur les Réseaux Sociaux</a>
+            </div>
+            </div>
+        </div>
 
-
+        <!-- Carte droite -->
+        <div class="col d-flex justify-content-center">
+            <div class="card" style="width: 21rem;">
+            <img src="..." class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Community managers</h5>
+                <p class="card-text">Vous souhaitez avoir un ambassadeur pour votre marque ? </p>
+                <p> Pouvoir transmettre facilement vos messages auprès de votre communauté ?</p>
+                <a href="#" class="btn btn-primary ">Plus d'infos sur le Community Manager</a>
+            </div>
+            </div>
+        </div>
+    </div>
+    <!-- Script bootsrap -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
     </script>

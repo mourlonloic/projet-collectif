@@ -1,4 +1,18 @@
+/* ALL */
 .card
 {
     margin-bottom: 50px;
 }
+
+.marge_carte{
+    margin: 7em;
+}
+
+/* Réseau */
+
+#bouton_rs {
+    display:flex;
+    position : relative;
+    top:30px;
+}
+
