@@ -20,6 +20,60 @@
 
     <h1>COMMUNICATION</h1>
 
+        <!-- Carte haut gauche -->
+        <div class="row marge_carte">
+        <div class="col d-flex justify-content-center">
+            <div class="card" style="width: 21rem;">
+            <img src="..." class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Création de la startégie de communication</h5>
+                <p class="card-text">Vous souhaitez avoir une stratégie de communication ? </p>
+                <p>Définir le type de contenu a poster sur votre blog/site ?</p>
+                <a href="#" id='bouton_rs' class="btn btn-primary">Plus d'infos sur la stratégie de communication</a>
+            </div>
+            </div>
+        </div>
+
+        <!-- Carte haut droite -->
+        <div class="col d-flex justify-content-center">
+            <div class="card" style="width: 21rem;">
+            <img src="..." class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Création d'articles/contenus</h5>
+                <p class="card-text">Vous souhaitez créer des articles ou du contenu mais vous n'avez pas le temps de le faure ?</p>
+                <a href="#" class="btn btn-primary ">Plus d'infos sur les articles/contenus</a>
+            </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Carte bas gauche -->
+    <div class="row marge_carte">
+        <div class="col d-flex justify-content-center">
+            <div class="card" style="width: 21rem;">
+            <img src="..." class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Accompagnement au référencement (SEO)</h5>
+                <p class="card-text">Vous souhaitez optmiser votre référencement? </p>
+                <p>Vous voulez apparaitre sur la première page des moteurs de recherche ?</p>
+                <a href="#" id='bouton_rs' class="btn btn-primary">Plus d'infos sur le SEO</a>
+            </div>
+            </div>
+        </div>
+
+        <!-- Carte bas droite -->
+        <div class="col d-flex justify-content-center">
+            <div class="card" style="width: 21rem;">
+            <img src="..." class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Création de charte éditoriale</h5>
+                <p class="card-text">Vous souhaitez établir des régles éditoriales? </p>
+                <p>Définir la cible de votre contenu ?</p>
+                <a href="#" class="btn btn-primary ">Plus d'info sur les landing-page</a>
+            </div>
+            </div>
+        </div>
+    </div>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
