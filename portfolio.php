@@ -20,6 +20,7 @@
 
     <h1>PORTFOLIO</h1>
 
+    <?php include_once("footer.php"); ?>
 
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"

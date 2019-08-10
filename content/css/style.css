@@ -1,4 +1,33 @@
-.card
+.equipe
 {
     margin-bottom: 50px;
+}
+
+/* Toute les pages */
+footer
+{
+    background-color: #3a3a3a;
+    color: rgb(255, 255, 255);
+}
+
+.menu_footer
+{
+    color: rgb(255, 255, 255);
+    margin-bottom: -0.6em;
+}
+
+.menu_footer:hover
+{
+    color: white;
+}
+
+#footer_RS, #newsletter_btn
+{
+    margin-top: 3em;
+    margin-left: 2em;
+}
+
+#footer_logo
+{
+    margin-top: 3em;
 }

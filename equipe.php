@@ -22,7 +22,7 @@
         <div class="row">
             <div class="col d-flex justify-content-center">
 
-                <div class="card rounded-top" style="width: 18rem;">
+                <div class="card rounded-top equipe" style="width: 18rem;">
                     <img src="content/images/jean-no.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Jean-No'</h5>
@@ -39,7 +39,7 @@
         <div class="row">
             <div class="col d-flex justify-content-center">
 
-                <div class="card rounded-top" style="width: 18rem;">
+                <div class="card rounded-top equipe" style="width: 18rem;">
                     <img src="content/images/sarah.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Sarah</h5>
@@ -53,7 +53,7 @@
             </div>
             <div class="col d-flex justify-content-center">
 
-                <div class="card rounded-top" style="width: 18rem;">
+                <div class="card rounded-top equipe" style="width: 18rem;">
                     <img src="content/images/cecile.png" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Cécile</h5>
@@ -70,7 +70,7 @@
         <div class="row">
             <div class="col d-flex justify-content-center">
 
-            <div class="card rounded-top" style="width: 18rem;">
+            <div class="card rounded-top equipe" style="width: 18rem;">
                 <img src="content/images/romain.png" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Romain</h5>
@@ -84,7 +84,7 @@
             </div>
             <div class="col d-flex justify-content-center">
 
-            <div class="card rounded-top" style="width: 18rem;">
+            <div class="card rounded-top equipe" style="width: 18rem;">
                 <img src="content/images/loic.png" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Loïc</h5>
@@ -99,6 +99,7 @@
         </div>
     </div>
 
+    <?php include_once("footer.php"); ?>
 
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
