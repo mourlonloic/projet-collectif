@@ -20,6 +20,62 @@
 
     <h1>DEV</h1>
 
+    <!-- Carte haut gauche -->
+    <div class="row marge_carte">
+        <div class="col d-flex justify-content-center">
+            <div class="card" style="width: 21rem;">
+            <img src="..." class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Création de site vitrine</h5>
+                <p class="card-text">Vous souhaitez présenter votre entreprise ? </p>
+                <p>Vos services ou vorte activité ?</p>
+                <p>Avoir une présence sur internet ?</p>
+                <a href="#" id='bouton_rs' class="btn btn-primary">Plus d'infos sur les sites vitrines</a>
+            </div>
+            </div>
+        </div>
+
+        <!-- Carte haut droite -->
+        <div class="col d-flex justify-content-center">
+            <div class="card" style="width: 21rem;">
+            <img src="..." class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Création de site e-commerce</h5>
+                <p class="card-text">Vous souhaitez vednre des produits en ligne ?</p>
+                <p>Vous souhaitez une boutique performante, administrable et 100% sécurisée ?</p>
+                <a href="#" class="btn btn-primary ">Plus d'infos sur les sites e-commerce</a>
+            </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Carte bas gauche -->
+    <div class="row marge_carte">
+        <div class="col d-flex justify-content-center">
+            <div class="card" style="width: 21rem;">
+            <img src="..." class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Refonte de site web</h5>
+                <p class="card-text">Vous bénéficiez d'un site web mais celui-ci ne correspond plus à votre image ? </p>
+                <p>Vous souhaitez moderniser votre site ?</p>
+                <a href="#" id='bouton_rs' class="btn btn-primary">Plus d'infos sur la refonte des sites</a>
+            </div>
+            </div>
+        </div>
+
+        <!-- Carte bas droite -->
+        <div class="col d-flex justify-content-center">
+            <div class="card" style="width: 21rem;">
+            <img src="..." class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Création de landing-page</h5>
+                <p class="card-text">Vous souhaitez avoir une landing page pour relayer une de vos campagnes e-marketing ? </p>
+                <a href="#" class="btn btn-primary ">Plus d'info sur les landing-page</a>
+            </div>
+            </div>
+        </div>
+    </div>
+
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
