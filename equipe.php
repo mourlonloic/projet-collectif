@@ -18,6 +18,7 @@
 <body>
     <?php include_once("header.php"); ?>
 
+    <video id="video_presentation" src="content/video/présentation.mp4" controls poster="content/images/five_forward.png" width="700em" height="500em" preload="auto"  ></video>
     <div class="container text-center">
         <div class="row">
             <div class="col d-flex justify-content-center">

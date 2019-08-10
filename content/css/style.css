@@ -16,3 +16,9 @@
     top:30px;
 }
 
+/* Equipe */
+#video_presentation{
+    display: flex;
+    margin : auto;
+    margin-bottom: 5em;
+}
