@@ -1,7 +1,7 @@
 <footer>
     <div class="container">
-        <div class="row">
-            <div class="col-2 " id="entreprise">
+        <div class="row ">
+            <div class="col-sm-3 " id="entreprise">
                 <!-- Présentation de l'entreprise -->
                 <h4>Five Forward</h4>
                 <hr>
@@ -10,13 +10,13 @@
                 <p>03 20 58 74 85</p>
             </div>
 
-            <div class="col-2">
+            <div class="col-sm-1 ">
                 <!-- Logo de l'entreprise -->
                 <img id="footer_logo" src="content/images/five_forward.png" height="75em"
                     alt="Logo de l'entreprise Five Forward">
             </div>
 
-            <div class="col-6 ">
+            <div class="col-sm-5  ">
                 <!-- Barre des réseaux sociaux et newsletter -->
                 <p id="footer_RS">
                     Suivez nous ici :
@@ -34,7 +34,7 @@
                     data-target="#newsletter">Inscrivez-vous a notre newsletter</button>
             </div>
 
-            <div class="col-2">
+            <div class="col-sm-3 ">
                 <!-- Menu du footer -->
                 <ul class="nav flex-column">
                     <li class="nav-item">

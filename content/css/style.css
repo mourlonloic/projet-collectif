@@ -1,18 +1,50 @@
-<<<<<<< HEAD
 /* ALL */
-.card
-=======
+@font-face
+{
+    font-family: "techno";
+    src: url("Logostile.ttf") format('truetype');
+}
+.card-title
+{
+    font-family: "techno";
+}
+
 .equipe
->>>>>>> footer
 {
     margin-bottom: 50px;
 }
 
-<<<<<<< HEAD
 .marge_carte{
     margin: 7em;
 }
 
+footer
+{
+    background-color: #f8f9fa;
+    color: rgb(0, 0, 0);
+}
+
+.menu_footer
+{
+    color: rgb(0, 0, 0);
+    margin-bottom: -0.6em;
+}
+
+.menu_footer:hover
+{
+    color: rgb(0, 183, 255);
+}
+
+#footer_RS, #newsletter_btn
+{
+    margin-top: 3em;
+    margin-left: 6em;
+}
+
+#footer_logo
+{
+    margin-top: 3em;
+}
 /* Réseau */
 
 #bouton_rs {
@@ -27,33 +59,11 @@
     margin : auto;
     margin-bottom: 5em;
 }
-=======
-/* Toute les pages */
-footer
-{
-    background-color: #3a3a3a;
-    color: rgb(255, 255, 255);
-}
 
-.menu_footer
-{
-    color: rgb(255, 255, 255);
-    margin-bottom: -0.6em;
-}
+/* Blog */
 
-.menu_footer:hover
+.article
 {
-    color: white;
+    margin-bottom: 5em;
+    margin-top: 5em;
 }
-
-#footer_RS, #newsletter_btn
-{
-    margin-top: 3em;
-    margin-left: 2em;
-}
-
-#footer_logo
-{
-    margin-top: 3em;
-}
->>>>>>> footer
