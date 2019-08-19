@@ -67,3 +67,16 @@ footer
     margin-bottom: 5em;
     margin-top: 5em;
 }
+
+/* Index */
+.spinner-border
+{
+    display: block;
+}
+
+#fleche
+{
+    height: 5em;
+    
+}
+

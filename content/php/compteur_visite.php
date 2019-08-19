@@ -29,7 +29,7 @@ function compteur($afficher = 0)
             {
 
                 $ligneAModifier = date("d-m-Y") . ":" .$exLigne[1];
-                $remplacerPar = date("d-m-Y"). ":" .($exLigne[1] +1);
+                $remplacerPar = date("d-m-Y"). ":" .((int)$exLigne[1] +1);
                 $nouveauContenu = str_replace($ligneAModifier, $remplacerPar, $contenu);
                 file_put_contents($chemin, $nouveauContenu, LOCK_EX);
             }

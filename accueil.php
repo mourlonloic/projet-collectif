@@ -6,35 +6,41 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <script src="https://kit.fontawesome.com/452645930a.js"></script>
-
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="stylesheet" href="content/css/style.css">
 
-    <title>Accès au site</title>
+        <link rel="stylesheet" href="content/css/style.css">
+
+    <title>Accueil Five Forward</title>
 </head>
 
 <body>
-    <div class="container">
-        <div class="row">
-            <div class="col text-center" style="margin-top: 35%; margin-bottom: 65%;">
-                <br>
+    <?php include_once("header.php"); ?>
 
-                <a href="accueil.php">
-                    <p>Cliquez ici pour accéder a un nouveau monde</p>
-                    <p><img src="https://img.icons8.com/dotty/52/000000/thick-arrow-pointing-down.png"></p>
+    <h1>ACCUEIL</h1>
 
-                    <div class="spinner-border text-info " style="width: 5em; height: 5em;" role="status"></div>
+    <div class="resume-home">
+        <div class="container">
+            <div class="text-banner">
 
-                </a>
+                <p> Nous sommes  <span href="" class="typewrite" data-period="2000" data-type='["des développeurs", "des webmarketeurs", "des gamers"]'><span class="wrap"></span></span><br>
+                    Nous concevons et développons des outils web et mobile.<br />
+                    Nous les rendons visibles et rentables.<br />
+                    Nous aidons nos clients à gagner des clients sur l’Internet.<br />
+
+                </p>
             </div>
+
         </div>
     </div>
 
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <?php include_once("content/php/compteur_visite.php"); ?>
+
+
+    <?php include_once("footer.php"); ?>
+
+
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
     </script>
@@ -44,6 +50,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
     </script>
+    <script src="content/javascript/text_modif.js"></script>
 </body>
 
 </html>
