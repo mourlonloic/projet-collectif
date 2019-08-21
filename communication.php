@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-        <link rel="stylesheet" href="content/css/style.css">
+    <link rel="stylesheet" href="content/css/style.css">
 
     <title>Communication Five Forward</title>
 </head>
@@ -18,31 +18,47 @@
 <body>
     <?php include_once("header.php"); ?>
 
-    <h1>COMMUNICATION</h1>
+    <div class="titre">
+        <h1>Prestation Communication Digital</h1>
+    </div>
 
-        <!-- Carte haut gauche -->
-        <div class="row marge_carte">
+    <div class="groupe_barette">
+        <div class="barette barette_1"></div>
+        <div class="barette barette_2"></div>
+    </div>
+
+    <!-- Carte haut gauche -->
+    <div class="row marge_carte">
         <div class="col d-flex justify-content-center">
             <div class="card" style="width: 21rem;">
-            <img src="..." class="card-img-top" alt="...">
-            <div class="card-body">
-                <h5 class="card-title">Création de la startégie de communication</h5>
-                <p class="card-text">Vous souhaitez avoir une stratégie de communication ? </p>
-                <p>Définir le type de contenu a poster sur votre blog/site ?</p>
-                <a href="#" id='bouton_rs' class="btn btn-primary">Plus d'infos sur la stratégie de communication</a>
-            </div>
+                <!-- icones -->
+                <div class="d-flex justify-content-center">
+                    <img src="content/images/icones/strat_comm.png" width="100" height="100" alt="...">
+                </div>
+
+                <div class="card-body">
+                    <h5 class="card-title">Création de la startégie de communication</h5>
+                    <p class="card-text">Vous souhaitez avoir une stratégie de communication ? </p>
+                    <p>Définir le type de contenu a poster sur votre blog/site ?</p>
+                    <a href="#" id='bouton_rs' class="btn btn-primary">Plus d'infos sur la stratégie de
+                        communication</a>
+                </div>
             </div>
         </div>
 
         <!-- Carte haut droite -->
         <div class="col d-flex justify-content-center">
             <div class="card" style="width: 21rem;">
-            <img src="..." class="card-img-top" alt="...">
-            <div class="card-body">
-                <h5 class="card-title">Création d'articles/contenus</h5>
-                <p class="card-text">Vous souhaitez créer des articles ou du contenu mais vous n'avez pas le temps de le faure ?</p>
-                <a href="#" class="btn btn-primary ">Plus d'infos sur les articles/contenus</a>
-            </div>
+                <!-- icones -->
+                <div class="d-flex justify-content-center">
+                    <img src="content/images/icones/article.png" width="100" height="100" alt="...">
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">Création d'articles/contenus</h5>
+                    <p class="card-text">Vous souhaitez créer des articles ou du contenu mais vous n'avez pas le temps
+                        de le faure ?</p>
+                    <a href="#" class="btn btn-primary ">Plus d'infos sur les articles/contenus</a>
+                </div>
             </div>
         </div>
     </div>
@@ -51,30 +67,36 @@
     <div class="row marge_carte">
         <div class="col d-flex justify-content-center">
             <div class="card" style="width: 21rem;">
-            <img src="..." class="card-img-top" alt="...">
-            <div class="card-body">
-                <h5 class="card-title">Accompagnement au référencement (SEO)</h5>
-                <p class="card-text">Vous souhaitez optmiser votre référencement? </p>
-                <p>Vous voulez apparaitre sur la première page des moteurs de recherche ?</p>
-                <a href="#" id='bouton_rs' class="btn btn-primary">Plus d'infos sur le SEO</a>
-            </div>
+                <!-- icones -->
+                <div class="d-flex justify-content-center">
+                    <img src="content/images/icones/seo.png" width="100" height="100" alt="...">
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">Accompagnement au référencement (SEO)</h5>
+                    <p class="card-text">Vous souhaitez optmiser votre référencement? </p>
+                    <p>Vous voulez apparaitre sur la première page des moteurs de recherche ?</p>
+                    <a href="#" id='bouton_rs' class="btn btn-primary">Plus d'infos sur le SEO</a>
+                </div>
             </div>
         </div>
 
         <!-- Carte bas droite -->
         <div class="col d-flex justify-content-center">
             <div class="card" style="width: 21rem;">
-            <img src="..." class="card-img-top" alt="...">
-            <div class="card-body">
-                <h5 class="card-title">Création de charte éditoriale</h5>
-                <p class="card-text">Vous souhaitez établir des régles éditoriales? </p>
-                <p>Définir la cible de votre contenu ?</p>
-                <a href="#" class="btn btn-primary ">Plus d'info sur les landing-page</a>
-            </div>
+                <!-- icones -->
+                <div class="d-flex justify-content-center">
+                    <img src="content/images/icones/charte_editorial.png" width="100" height="100" alt="...">
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">Création de charte éditoriale</h5>
+                    <p class="card-text">Vous souhaitez établir des régles éditoriales? </p>
+                    <p>Définir la cible de votre contenu ?</p>
+                    <a href="#" class="btn btn-primary ">Plus d'info sur les landing-page</a>
+                </div>
             </div>
         </div>
     </div>
-    
+
     <?php include_once("footer.php"); ?>
 
 

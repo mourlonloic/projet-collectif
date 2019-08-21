@@ -29,7 +29,7 @@ function compteur($afficher = 0)
             {
 
                 $ligneAModifier = date("d-m-Y") . ":" .$exLigne[1];
-                $remplacerPar = date("d-m-Y"). ":" .($exLigne[1] +1);
+                $remplacerPar = date("d-m-Y"). ":" .((int)$exLigne[1] +1);
                 $nouveauContenu = str_replace($ligneAModifier, $remplacerPar, $contenu);
                 file_put_contents($chemin, $nouveauContenu, LOCK_EX);
             }
@@ -45,10 +45,10 @@ function compteur($afficher = 0)
                     if($ligne != "")
                     {
                         $ligneStat = explode(":", $ligne);
-                        $statTotal += (int)$ligneStat[1];
+                        (int)$statTotal += (int)$ligneStat[1];
                     }
                 }
-                return $statTotal;
+                return (int)$statTotal;
             }
         }
         else

@@ -48,7 +48,7 @@
 
         <p>Le seul inconvénient ? Le coût initial, car à la longue un site codé en ‘dur‘ seras plus stable dans le temps, nécessitera moins de maintenance, diminuant ainsi les frais sur le long terme.</p>
 
-        <h4>conclusion</h4>
+        <h4>Conclusion</h4>
 
         <p><strong>Five Forward à donc opté pour une démarche qualité optimale visant à satisfaire le client à la livraison et surtout, dans la durée en concevant un site WEB de A à Z complètement personnalisé et unique suivant vos demandes. </strong></p>
 

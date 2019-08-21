@@ -40,7 +40,7 @@
 
         <p>N’est-ce pas d’ailleurs déjà le cas avec le télétravail qui tend à se généraliser au fil de la transformation numérique ? D’autres formes de travail comme le nomadisme et le freelance apparaissent à leur tour, se substituant au mode de fonctionnement de l’entreprise traditionnelle.</p>
 
-        <h4>conclusion</h4>
+        <h4>Conclusion</h4>
 
         <p><strong>C’est pourquoi Five Forward a choisi de créer cette Startup dédié à la transition digitale. Pour permettre au entreprise de passé le cap du numérique et ainsi dématérialiser accéder a un nouveau monde d’opportunitées grâce aux nouvelles technologies. Êtes-vous prêt a passer le cap ?</strong></p>
 
