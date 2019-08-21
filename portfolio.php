@@ -18,7 +18,14 @@
 <body>
     <?php include_once("header.php"); ?>
 
-    <h1>PORTFOLIO</h1>
+    <div class="titre">
+        <h1>Portfolio</h1>
+    </div>
+
+    <div class="groupe_barette">
+        <div class="barette barette_1"></div>
+        <div class="barette barette_2"></div>
+    </div>
 
     <?php include_once("footer.php"); ?>
 

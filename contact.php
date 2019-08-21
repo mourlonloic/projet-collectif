@@ -67,6 +67,15 @@ if ($_SERVER['REQUEST_METHOD'] === "POST")
 <body>
     <?php include_once("header.php"); ?>
 
+    <div class="titre">
+        <h1>Nous contacter</h1>
+    </div>
+
+    <div class="groupe_barette">
+        <div class="barette barette_1"></div>
+        <div class="barette barette_2"></div>
+    </div>
+
 
     <div class="container">
         <div class="row">

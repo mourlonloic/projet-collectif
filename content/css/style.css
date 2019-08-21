@@ -1,12 +1,70 @@
 /* ALL */
+
 @font-face
 {
     font-family: "techno";
     src: url("Logostile.ttf") format('truetype');
 }
-.card-title
+.card-title, .titre
 {
     font-family: "techno";
+}
+
+.card
+{
+    background-color: #edf3f8ea;
+    border: 0px;
+    margin-top: 2.5em;
+    text-align: center;
+}
+
+.titre
+{
+    background-color: #d3ebffea;
+    text-align: center;
+}
+
+.groupe_barette 
+{
+    display: flex;
+    flex-direction: column;
+    margin-left: 90%; 
+}
+
+.barette
+{
+    width: 50px;
+    height: 10px;
+    background-color: #98d1ffea;
+    transform: rotate(130deg);
+    margin-bottom: 2em;
+    margin-top: -0.8em;
+}
+.barette_1
+{
+    margin-top: -2.5em;
+}
+
+.btn
+{
+    background: none;
+    border: 3px solid #ffae00;
+    border-radius: 15px;
+    color: #ffae00;
+}
+
+.btn:hover
+{
+    background-color: #ffae00;
+    color: #fff;
+    border: 3px solid #a87301;
+}
+
+
+
+body
+{
+    background-color:  #edf3f8ea;
 }
 
 .equipe
@@ -68,15 +126,11 @@ footer
     margin-top: 5em;
 }
 
-/* Index */
-.spinner-border
+/* Accueil */
+.typewrite
 {
-    display: block;
-}
-
-#fleche
-{
-    height: 5em;
+    background-color: #0c0c0c;
+    color: white;
     
 }
 

@@ -1,7 +1,7 @@
 <header>
     <!-- Barre de nagivation  -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="index.php">
+        <a class="navbar-brand" href="accueil.php">
         <img src="content/images/five_forward.png" width="" height="30" alt="Logo de l'entreprise Five Forward"> Five Forward</a>
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -12,7 +12,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav nav-tabs mr-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="index.php">Accueil</a>
+                    <a class="nav-link" href="accueil.php">Accueil</a>
                 </li>
                 <li class="nav-item dropdown nav-pills">
                     <a class="nav-link dropdown-toggle" href="marketing.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
