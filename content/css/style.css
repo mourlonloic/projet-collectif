@@ -46,7 +46,6 @@ footer
     margin-top: 3em;
 }
 /* Réseau */
-
 #bouton_rs {
     display:flex;
     position : relative;
@@ -61,9 +60,28 @@ footer
 }
 
 /* Blog */
-
 .article
 {
     margin-bottom: 5em;
     margin-top: 5em;
+}
+
+/* index */
+#cache_accueil{
+    display: none;
+}
+
+.centrer_index{
+    text-align: center;
+    padding-top: 3em;
+}
+
+video{
+    padding : 2em;
+    z-index: 4;
+}
+
+#logo_au_dessus_video{
+    z-index: 5;
+    margin-top : 10em;
 }

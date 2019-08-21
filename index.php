@@ -18,28 +18,23 @@
 <body>
     <?php include_once("header.php"); ?>
 
-    <h1>ACCUEIL</h1>
+    <h1 id="cache_accueil">ACCUEIL</h1>
 
-    <div class="resume-home">
-        <div class="container">
-            <div class="text-banner">
 
-                <p> Nous sommes  <span href="" class="typewrite" data-period="2000" data-type='["des développeurs", "des webmarketeurs", "des gamers"]'><span class="wrap"></span></span><br>
-                    Nous concevons et développons des outils web et mobile.<br />
-                    Nous les rendons visibles et rentables.<br />
-                    Nous aidons nos clients à gagner des clients sur l’Internet.<br />
+<!-- <img id="logo_au_dessus_video" src="content/images/five_forward_index.png" height="150em" width="300em" alt="logo_au_dessus_video"> -->
 
-                </p>
-            </div>
+<video src="content/video/presentation.mp4" autoplay="true" loop="true"></video>
 
-        </div>
+<div class="centrer_index">
+<p> Nous sommes  <span href="" class="typewrite" data-period="2000" data-type='["des développeurs", "des webmarketeurs", "des gamers"]'><span class="wrap"></span></span><br>
+    Nous concevons et développons des outils web et mobile.<br />
+    Nous les rendons visibles et rentables.<br />
+    Nous aidons nos clients à gagner des clients sur l’Internet.<br /> </p>
     </div>
 
-    <?php include_once("content/php/compteur_visite.php"); ?>
+    <?php include_once("content/php/compteur_visite.php"); ?> <br />
 
-
-    <?php include_once("footer.php"); ?>
-
+    <?php include_once("footer.php"); ?> <br />
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
