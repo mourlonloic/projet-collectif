@@ -18,7 +18,7 @@
 <body>
     <?php include_once("header.php"); ?>
 
-    <h1>ACCUEIL</h1>
+    <h1 id="cache_accueil">ACCUEIL</h1>
 
     <video src="content/video/presentation.mp4" autoplay="true" loop="true"></video>
 
