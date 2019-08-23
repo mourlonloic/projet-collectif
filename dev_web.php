@@ -40,7 +40,6 @@
                     <p class="card-text">Vous souhaitez présenter votre entreprise ? </p>
                     <p>Vos services ou vorte activité ?</p>
                     <p>Avoir une présence sur internet ?</p>
-                    <a href="#" id='bouton_rs' class="btn btn-primary">Plus d'infos sur les sites vitrines</a>
                 </div>
             </div>
         </div>
@@ -56,7 +55,6 @@
                     <h5 class="card-title">Création de site e-commerce</h5>
                     <p class="card-text">Vous souhaitez vednre des produits en ligne ?</p>
                     <p>Vous souhaitez une boutique performante, administrable et 100% sécurisée ?</p>
-                    <a href="#" class="btn btn-primary ">Plus d'infos sur les sites e-commerce</a>
                 </div>
             </div>
         </div>
@@ -75,7 +73,6 @@
                     <p class="card-text">Vous bénéficiez d'un site web mais celui-ci ne correspond plus à votre image ?
                     </p>
                     <p>Vous souhaitez moderniser votre site ?</p>
-                    <a href="#" id='bouton_rs' class="btn btn-primary">Plus d'infos sur la refonte des sites</a>
                 </div>
             </div>
         </div>
@@ -91,12 +88,10 @@
                     <h5 class="card-title">Création de landing-page</h5>
                     <p class="card-text">Vous souhaitez avoir une landing page pour relayer une de vos campagnes
                         e-marketing ? </p>
-                    <a href="#" class="btn btn-primary ">Plus d'info sur les landing-page</a>
                 </div>
             </div>
         </div>
     </div>
-
 
     <?php include_once("footer.php"); ?>
 

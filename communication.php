@@ -40,8 +40,6 @@
                     <h5 class="card-title">Création de la startégie de communication</h5>
                     <p class="card-text">Vous souhaitez avoir une stratégie de communication ? </p>
                     <p>Définir le type de contenu a poster sur votre blog/site ?</p>
-                    <a href="#" id='bouton_rs' class="btn btn-primary">Plus d'infos sur la stratégie de
-                        communication</a>
                 </div>
             </div>
         </div>
@@ -55,9 +53,7 @@
                 </div>
                 <div class="card-body">
                     <h5 class="card-title">Création d'articles/contenus</h5>
-                    <p class="card-text">Vous souhaitez créer des articles ou du contenu mais vous n'avez pas le temps
-                        de le faure ?</p>
-                    <a href="#" class="btn btn-primary ">Plus d'infos sur les articles/contenus</a>
+                    <p class="card-text">Vous souhaitez créer des articles ou du contenu mais vous n'avez pas le temps de le faire ?</p>
                 </div>
             </div>
         </div>
@@ -75,7 +71,6 @@
                     <h5 class="card-title">Accompagnement au référencement (SEO)</h5>
                     <p class="card-text">Vous souhaitez optmiser votre référencement? </p>
                     <p>Vous voulez apparaitre sur la première page des moteurs de recherche ?</p>
-                    <a href="#" id='bouton_rs' class="btn btn-primary">Plus d'infos sur le SEO</a>
                 </div>
             </div>
         </div>
@@ -91,7 +86,6 @@
                     <h5 class="card-title">Création de charte éditoriale</h5>
                     <p class="card-text">Vous souhaitez établir des régles éditoriales? </p>
                     <p>Définir la cible de votre contenu ?</p>
-                    <a href="#" class="btn btn-primary ">Plus d'info sur les landing-page</a>
                 </div>
             </div>
         </div>

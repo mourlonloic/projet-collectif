@@ -40,7 +40,6 @@
                     <h5 class="card-title">Creation des pages sur les RS</h5>
                     <p class="card-text">Vous souhaitez présenter votre entreprise sur les réseaux ? </p>
                     <p>Posséder votre propre page auprès de votre communauté ?</p>
-                    <a href="#" id='bouton_rs' class="btn btn-primary">Plus d'infos sur les Réseaux Sociaux</a>
                 </div>
             </div>
         </div>
@@ -56,7 +55,6 @@
                     <h5 class="card-title">Community managers</h5>
                     <p class="card-text">Vous souhaitez avoir un ambassadeur pour votre marque ? </p>
                     <p> Pouvoir transmettre facilement vos messages auprès de votre communauté ?</p>
-                    <a href="#" class="btn btn-primary ">Plus d'infos sur le Community Manager</a>
                 </div>
             </div>
         </div>
