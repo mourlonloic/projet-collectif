@@ -152,11 +152,6 @@ video{
     z-index: 4;
 }
 
-#logo_au_dessus_video
-{
-    z-index: 5;
-    margin-top : 10em;
-}
 .typewrite
 {
     background-color: #0c0c0c;
@@ -178,6 +173,35 @@ video{
     line-height: 100px;
     margin-left:30px;
     font-size:25px;
+}
+
+#container_compteur_accueil
+{
+    padding-bottom: 4em;
+}
+
+#icone_client
+{
+    display: flex;
+    margin : auto;
+}
+
+#icone_projet
+{
+    display: flex;
+    margin : auto;
+}
+
+#icone_cafe
+{
+    display: flex;
+    margin : auto;
+}
+
+#icone_visiteur
+{
+    display: flex;
+    margin : auto;
 }
 
 /* .bouton_menu

@@ -20,7 +20,7 @@
 
     <h1 id="cache_accueil">ACCUEIL</h1>
 
-    <video src="content/video/presentation.mp4" autoplay="true" loop="true"></video>
+    <video src="content/video/refonte_presentation.mp4"  loop="true" controls="true"></video>
 
     <div class="centrer_index">
         <p> Nous sommes <span href="" class="typewrite" data-period="2000"
@@ -32,11 +32,11 @@
         </p>
     </div>
 
-    <div class="container ">
+    <div class="container" id="container_compteur_accueil" >
         <div class="row ">
             <div class="col d-flex justify-content-center">
                 <div class="card compteur" id="client">
-                    <img src="content/images/icones/client.png" width="100" height="100" alt="">
+                    <img id="icone_client" src="content/images/icones/client.png" width="100" height="100" alt="icone_de_client">
                     
                     <div class="counter">
                         <i class="fa fa-code fa-2x"></i>
@@ -48,7 +48,7 @@
             </div>
             <div class="col d-flex justify-content-center">
                 <div class="card compteur" id="projet">
-                    <img src="content/images/icones/projet.png" width="100" height="100" alt="">
+                    <img id="icone_projet" src="content/images/icones/projet.png" width="100" height="100" alt="icone_de_projet">
                     
                     <div class="counter">
                         <i class="fa fa-code fa-2x"></i>
@@ -60,7 +60,7 @@
             </div>
             <div class="col d-flex justify-content-center">
                 <div class="card compteur" id="café">
-                    <img src="content/images/icones/cafe.png" width="100" height="100" alt="">
+                    <img id="icone_cafe" src="content/images/icones/cafe.png" width="100" height="100" alt="icone_café">
 
                     <div class="counter">
                         <i class="fa fa-code fa-2x"></i>
@@ -72,15 +72,13 @@
             </div>
             <div class="col d-flex justify-content-center">
                 <div class="card compteur" id="visite">
-                    <img src="content/images/icones/visiteur.png" width="100" height="100" alt="">
+                    <img id="icone_visiteur" src="content/images/icones/visiteur.png" width="100" height="100" alt="icone_visiteur">
                     <?php include_once("content/php/compteur_visite.php"); ?>
 
                 </div>
             </div>
         </div>
     </div>
-
-
 
     <?php include_once("footer.php"); ?>
 
