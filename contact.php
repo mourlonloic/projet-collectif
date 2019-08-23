@@ -94,8 +94,20 @@ if ($_SERVER['REQUEST_METHOD'] === "POST")
                     </div>
                     <div class="form-group">
                         <label for="exampleFormControlTextarea1">Contenu</label>
-                        <textarea name="contenu" class="form-control" id="exampleFormControlTextarea1"
-                            rows="3"></textarea>
+                        <textarea name="contenu" class="form-control" id="exampleFormControlTextarea1" rows="3">
+
+                            <?php
+                                if(isset($_POST['prestations']))
+                                {
+
+                                    foreach($_POST["prestations"] as $value)
+                                    {
+                                        echo $value. "<br>";
+                                    }
+                                }
+                            ?>
+
+                        </textarea>
                     </div>
                     <button type="submit" class="btn btn-primary">Envoyer</button>
                 </form>
@@ -121,11 +133,11 @@ if ($_SERVER['REQUEST_METHOD'] === "POST")
             elseif($q == true)
             {
             ?>
-            <div class="alert alert-success" role="alert">
-                <?php echo $message; ?>
-            </div>
-            
-            <?php
+                <div class="alert alert-success" role="alert">
+                    <?php echo $message; ?>
+                </div>
+
+                <?php
             }
             ?>
 

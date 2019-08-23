@@ -39,8 +39,8 @@
                     <h5 class="card-title">Création de la startégie commerciale</h5>
                     <p class="card-text">Vous souhaitez avoir une stratégie de communication ? </p>
                     <p>Définir le type de contenu a poster sur votre blog/site ?</p>
-                    <a href="#" id='bouton_rs' class="btn btn-primary">Plus d'infos sur la stratégie de
-                        communication</a>
+                    <?php include("content/php/modal.php") ?>
+                    
                 </div>
             </div>
         </div>
