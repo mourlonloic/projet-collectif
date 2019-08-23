@@ -170,6 +170,11 @@ header
     background: none;
 }
 
+#menu_contact
+{
+    border : solid 3px #ffae00;
+}
+
 /* .bouton_menu
 {
     text-align: center;

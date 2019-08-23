@@ -37,7 +37,7 @@
                         <a class="nav-link" href="equipe.php">Notre équipe</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="contact.php">Contact</a>
+                        <a id="menu_contact" class="nav-link" href="contact.php">Contact</a>
                     </li>
                 </ul>
             </div>
