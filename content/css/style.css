@@ -134,7 +134,7 @@ footer
     margin-top: 5em;
 }
 
-/* index */
+/* accueil */
 #cache_accueil
 {
     display: none;
@@ -157,7 +157,6 @@ video{
     z-index: 5;
     margin-top : 10em;
 }
-/* Accueil */
 .typewrite
 {
     background-color: #0c0c0c;
@@ -165,9 +164,20 @@ video{
     
 }
 
-header
+.compteur
 {
-    background: none;
+    border: 2px black solid;
+    height: 18em;
+    width: 15em;
+    /* margin-right: 2em; */
+    border-radius: 30px;
+}
+
+.count
+{
+    line-height: 100px;
+    margin-left:30px;
+    font-size:25px;
 }
 
 /* .bouton_menu

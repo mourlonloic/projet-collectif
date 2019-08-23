@@ -79,4 +79,4 @@ function compteur($afficher = 0)
 }
 
 compteur();//on compte la visite
-echo "Le site comptabilise ".compteur(1)." visite(s) aujourd'hui et ".compteur(2)." au total!";
+echo "Visiteur aujourd'hui <br><h2>".compteur(1)."</h2><br> Visiteurs totaux <br><h2>".compteur(2)."</h2>";
