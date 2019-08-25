@@ -16,7 +16,7 @@
                 <h4>Quelles prestations vous intérèsse ?</h4>
                 <form action="contact.php" method="post">
 
-                    <input type="checkbox" name="prestations[]" value="- Marketing Digital"> Marketing Digital
+                    <input type="checkbox" name="prestations[]" value="- Marketing digital"> Marketing Digital
 
                     <br>
 
@@ -28,15 +28,15 @@
 
                     <br>
 
-                    <input type="checkbox" name="prestations[]" value="Accompagnement au référencement"> Accompagnement au référencement
+                    <input type="checkbox" name="prestations[]" value="- Accompagnement au référencement"> Accompagnement au référencement
 
                     <br>
 
-                    <input type="checkbox" name="prestations[]" value="Charte éditoriale"> Charte éditoriale
+                    <input type="checkbox" name="prestations[]" value="- Charte éditoriale"> Charte éditoriale
 
                     <br>
 
-                    <input type="checkbox" name="prestations[]" value="Création des pages RS"> Création des pages RS
+                    <input type="checkbox" name="prestations[]" value="- Création des pages RS"> Création des pages RS
 
                     <br>
 
@@ -44,28 +44,26 @@
 
                     <br>
 
-                    <input type="checkbox" name="prestations[]" value="Sites vitrines"> Sites vitrines
+                    <input type="checkbox" name="prestations[]" value="- Sites vitrines"> Sites vitrines
 
                     <br>
 
-                    <input type="checkbox" name="prestations[]" value="Sites e-commerce"> Sites e-commerce
+                    <input type="checkbox" name="prestations[]" value="- Sites e-commerce"> Sites e-commerce
 
                     <br>
 
-                    <input type="checkbox" name="prestations[]" value="Refonte de sites"> Refonte de sites
+                    <input type="checkbox" name="prestations[]" value="- Refonte de sites"> Refonte de sites
 
                     <br>
 
-                    <input type="checkbox" name="prestations[]" value="Landing page"> Landing page
+                    <input type="checkbox" name="prestations[]" value="- Landing page"> Landing page
 
                     <br>
-                </form>
             </div>
             <div class="modal-footer">
                     <button type="button" class="btn btn-secondary" data-dismiss="modal">Retour</button>
-                <a href="contact.php">
-                    <button class="btn">Valider mes choix</button>
-                </a>
+                    <input type="submit" class="btn" value="Valider mes choix">
+                </form>
             </div>
         </div>
     </div>
