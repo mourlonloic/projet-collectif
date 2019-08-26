@@ -12,11 +12,11 @@
 
     <link rel="stylesheet" href="content/css/style.css">
 
-    <meta name="description" content=
-    "Comment mettre en place et réussir une stratégie digitale pour une présence en ligne efficace ? 
+    <meta name="description"
+        content="Comment mettre en place et réussir une stratégie digitale pour une présence en ligne efficace ? 
     Pourquoi en adopter une ? 
     Réalisez un audit de site internet ou une étude de marché et de la concurrence pour booster votre présence en ligne et ainsi développer votre chiffre d'affaire.">
-    
+
     <title>Marketing Five Forward</title>
 </head>
 
@@ -33,29 +33,40 @@
     </div>
 
     <div id="container_marketing" class="container text-center">
-    <img class="page_marketing" src="content/images/icones/strat_commercial.png" width="100" height="100" alt="icone_commercial"><br>
+        <img class="page_marketing" src="content/images/icones/strat_commercial.png" width="100" height="100"
+            alt="icone_commercial"><br>
 
-    <h2 class="page_marketing">Vous souhaitez développer votre chiffre d’affaire grâce à internet ? </h2>
-    <p class="page_marketing">Nous vous aidons à déterminer les endroits stratégiques sur la toile en fonction de votre activité pour atteindre cet objectif.</p><br>
+        <h2 class="page_marketing">Vous souhaitez développer votre chiffre d’affaire grâce à internet ? </h2>
+        <p class="page_marketing">Nous vous aidons à déterminer les endroits stratégiques sur la toile en fonction de
+            votre activité pour atteindre cet objectif.</p><br>
 
-    <img class="page_marketing" src="content/images/icones/audit.png" width="100" height="100" alt="icone_audit"> <br>
-    <h2 class="page_marketing">Pourquoi est-ce nécessaire d’adopter une stratégie digitale?</h2>
-    <p class="page_marketing">
-        Être présent sur le web, c’est bien, être au bon endroit pour <span id="atteindre">atteindre vos clients</span>, c’est mieux ! <br> <br>
+        <img class="page_marketing" src="content/images/icones/audit.png" width="100" height="100" alt="icone_audit">
+        <br>
+        <h2 class="page_marketing">Pourquoi est-ce nécessaire d’adopter une stratégie digitale?</h2>
+        <p class="page_marketing">
+            Être présent sur le web, c’est bien, être au bon endroit pour <span id="atteindre">atteindre vos
+                clients</span>, c’est mieux ! <br> <br>
 
-        Pour cela, il est primordial de connaître, notamment : <br>
-        -> Les habitudes de consommation web de vos clients (à quelle occasion l’utilisent-ils, à quelle fréquence ? …) <br>
-        -> Les moyens les plus efficaces pour que vos clients puissent vous trouver en ligne. <br>
-        -> Vos concurrents déjà présents en ligne et comment ils s’y positionnent. <br>
-        -> Vos atouts pour vous démarquer. <br> <br>
-        
-        Nous vous proposons de construire votre <strong>stratégie digitale</strong> en étudiant tous les points nécessaires pour booster votre présence sur le net. <br> <br>
-        
-        <strong>Audit</strong> de site internet, </strong>étude de marché et de la concurrence … <br> <br>
-        
-        Faites-vous accompagner par un <strong>expert en webmarketing</strong> pour réussir votre <strong>stratégie digitale ! </strong>
-    </p><br>
-</div>
+            Pour cela, il est primordial de connaître, notamment : <br>
+            -> Les habitudes de consommation web de vos clients (à quelle occasion l’utilisent-ils, à quelle fréquence ?
+            …) <br>
+            -> Les moyens les plus efficaces pour que vos clients puissent vous trouver en ligne. <br>
+            -> Vos concurrents déjà présents en ligne et comment ils s’y positionnent. <br>
+            -> Vos atouts pour vous démarquer. <br> <br>
+
+            Nous vous proposons de construire votre <strong>stratégie digitale</strong> en étudiant tous les points
+            nécessaires pour booster votre présence sur le net. <br> <br>
+
+            <strong>Audit</strong> de site internet, </strong>étude de marché et de la concurrence … <br> <br>
+
+            Faites-vous accompagner par un <strong>expert en webmarketing</strong> pour réussir votre <strong>stratégie
+                digitale ! </strong>
+            <div class="row d-flex justify-content-center">
+                <?php include("content/php/modal.php") ?>
+            </div>
+        </p>
+    </div>
+    <br>
 
     <?php include_once("footer.php"); ?>
 

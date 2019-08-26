@@ -46,7 +46,7 @@
 {
     width: 50px;
     height: 10px;
-    background-color: #98d1ffea;
+    background-color: #2d3142;
     transform: rotate(130deg);
     margin-bottom: 2em;
     margin-top: -0.8em;
@@ -56,7 +56,7 @@
     margin-top: -2.5em;
 }
 
-.btn
+.btn, .btn_modal
 {
     background: none;
     border: 3px solid #ffae00;
@@ -64,7 +64,7 @@
     color: #ffae00;
 }
 
-.btn:hover
+.btn:hover, .btn_modal:hover
 {
     background-color: #ffae00;
     color: #fff;
@@ -112,6 +112,37 @@ footer
 {
     margin-top: 3em;
 }
+
+#cookie_bloc
+{
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    background: #96d0ff41; 
+    height: 4em;
+    width: 50em;
+    border-radius: 25px;
+    padding-left: 1em;
+}
+
+#text_cookie
+{
+    font-size: 0.8em;
+}
+
+#cookie_btn
+{
+    background: none;
+    height: 2em;
+    border-radius: 20px;
+    border: 1px #4fa9f3 solid;
+}
+
+/* Modal */
+.formulaire
+{
+    text-align: initial;
+}
+
 /* Réseau */
 #bouton_rs 
 {

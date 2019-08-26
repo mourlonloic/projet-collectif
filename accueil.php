@@ -80,6 +80,16 @@
         </div>
     </div>
 
+    
+<div class="d-flex justify-content-center">
+    <div id="cookie_bloc" class="cookie">
+        <p id="text_cookie" >En poursuivant votre navigation sur ce site, vous acceptez l'utilisation de traceurs (cookies) afin de réaliser des statistiques anonymes de visites, vous proposer des contenus et services adaptés à vos centres d'intérêts et vous permettre de partager des informations sur les réseaux sociaux. <button id="cookie_btn" class="cookie_btn">J'accepte</button></p>
+    </div>
+</div>
+
+
+
+
     <?php include_once("footer.php"); ?>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
@@ -93,6 +103,19 @@
     </script>
     <script src="content/javascript/text_modif.js"></script>
     <script src="content/javascript/compteur.js"></script>
+
+    <!-- Cookie -->
+<script>
+
+var cookie = $("#cookie_btn");
+var barreCookie = $("#cookie_bloc")
+
+cookie.on("click", function(){
+    barreCookie.hide();
+});
+
+</script>
+
 </body>
 
 </html>

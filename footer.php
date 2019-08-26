@@ -1,3 +1,4 @@
+
 <footer>
     <div class="container">
         <div class="row ">
@@ -32,22 +33,13 @@
                 <!-- Menu du footer -->
                 <ul class="nav flex-column">
                     <li class="nav-item">
-                        <a class="nav-link menu_footer" href="#">Nos prestations</a>
+                        <a class="nav-link menu_footer" href="equipe.php">Notre équipe</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link menu_footer" href="#">Notre équipe</a>
+                        <a class="nav-link menu_footer" href="contact.php">Contact</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link menu_footer" href="#">Contact</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link menu_footer" href="#">CGU</a>
-                    </li>
-                    <li class="nav-item">
-                        <button type="button" class="btn btn-primary" data-toggle="modal"
-                            data-target="#mention">
-                            Mension légale
-                        </button>
+                        <a class="nav-link menu_footer" href="rgpd.php">Mention légale</a>
                     </li>
                 </ul>
             </div>
@@ -95,67 +87,3 @@
     </div>
 </div>
 
-<!-- Mention légale -->
-<div class="modal fade" id="mention" tabindex="-1" role="dialog" aria-labelledby="exampleModalScrollableTitle"
-    aria-hidden="true">
-    <div class="modal-dialog modal-dialog-scrollable" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalScrollableTitle">Mention légale</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-            </div>
-            <div class="modal-body">
-                <h3>Sarl Five Forward</h3>
-
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum debitis porro ex asperiores quos
-                    molestias. Numquam debitis corrupti, laudantium dignissimos eveniet itaque maxime quaerat harum
-                    recusandae repellat ullam! Numquam, amet.</p>
-
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum debitis porro ex asperiores quos
-                    molestias. Numquam debitis corrupti, laudantium dignissimos eveniet itaque maxime quaerat harum
-                    recusandae repellat ullam! Numquam, amet.</p>
-
-
-                <h5>Article 1</h5>
-
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum debitis porro ex asperiores quos
-                    molestias. Numquam debitis corrupti, laudantium dignissimos eveniet itaque maxime quaerat harum
-                    recusandae repellat ullam! Numquam, amet.</p>
-
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum debitis porro ex asperiores quos
-                    molestias. Numquam debitis corrupti, laudantium dignissimos eveniet itaque maxime quaerat harum
-                    recusandae repellat ullam! Numquam, amet.</p>
-
-                    <h5>Article 2</h5>
-
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum debitis porro ex asperiores quos
-                    molestias. Numquam debitis corrupti, laudantium dignissimos eveniet itaque maxime quaerat harum
-                    recusandae repellat ullam! Numquam, amet.</p>
-
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum debitis porro ex asperiores quos
-                    molestias. Numquam debitis corrupti, laudantium dignissimos eveniet itaque maxime quaerat harum
-                    recusandae repellat ullam! Numquam, amet.</p>
-
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum debitis porro ex asperiores quos
-                    molestias. Numquam debitis corrupti, laudantium dignissimos eveniet itaque maxime quaerat harum
-                    recusandae repellat ullam! Numquam, amet.</p>
-
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum debitis porro ex asperiores quos
-                    molestias. Numquam debitis corrupti, laudantium dignissimos eveniet itaque maxime quaerat harum
-                    recusandae repellat ullam! Numquam, amet.</p>
-
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum debitis porro ex asperiores quos
-                    molestias. Numquam debitis corrupti, laudantium dignissimos eveniet itaque maxime quaerat harum
-                    recusandae repellat ullam! Numquam, amet.</p>
-
-
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                <button type="button" class="btn btn-primary">Save changes</button>
-            </div>
-        </div>
-    </div>
-</div>
