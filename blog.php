@@ -32,9 +32,9 @@
             <div class="col ">
                 <!-- Carte de gauche -->
                 <div class="card" style="width: 18rem;">
-                    <img src="content/images/Cahier_des_charges.jpg" class="card-img-top" alt="...">
+                    <img src="content/images/Cahier_des_charges.jpg" class="card-img-top" alt="Illustration du cahier des charges">
                     <div class="card-body">
-                        <h5 class="card-title">Creation d'un cahier des charges</h5>
+                        <h5 class="card-title">Création d'un cahier des charges</h5>
                         <p class="card-text">Le cahier des charges décrit précisément les besoins auxquels le
                             prestataire doit répondre, et organise la relation entre les différents acteurs tout au long
                             d'un projet.</p>
@@ -49,10 +49,10 @@
                 <!-- Carte centrale -->
 
                 <div class="card" style="width: 18rem;">
-                    <img src="content/images/Wordpress-vs-HTML.png" class="card-img-top" alt="...">
+                    <img src="content/images/Wordpress-vs-HTML.png" class="card-img-top" alt="Illustration du cms vs code pur">
                     <div class="card-body">
-                        <h5 class="card-title">CMS vs developpement pur</h5>
-                        <p class="card-text">Les CMS (comme WordPress) sont des programmes informatique utilisant une
+                        <h5 class="card-title">CMS vs développement pur</h5>
+                        <p class="card-text">Les CMS (comme WordPress) sont des programmes informatiques utilisant une
                             base de données et permettant de gérer de A et Z l’apparence et le contenu d’un site web, de
                             façon plus ou moins accessible pour le grand public. Alors pourquoi débourser plus pour
                             concevoir son site web et faire appel à des développeurs ?.</p>
@@ -67,14 +67,14 @@
                 <!-- Carte de droite -->
 
                 <div class="card" style="width: 18rem;">
-                    <img src="content/images/transformation-digitale.jpg" class="card-img-top" alt="...">
+                    <img src="content/images/transformation-digitale.jpg" class="card-img-top" alt="Illustration de la transformation digitale">
                     <div class="card-body">
                         <h5 class="card-title">Pourquoi faire passer son entreprise en 2.0</h5>
-                        <p class="card-text">A l’image de la révolution industrielle, la transition numérique est une
-                            étape nécessaire pour accéder a un nouveau marché et de nouvelles opportunitées. Cette
-                            transformation est une nécessité de nos jours pour toutesentreprises. Elle permettre, par
-                            exemple, la dématérialisation de sa liste de client et de ses fournisseurs. Aujourd’hui une
-                            entreprise qui n’a pas effectuer ce passage en «2.0» rate de potentiel nouveau clients.</p>
+                        <p class="card-text">À l’image de la révolution industrielle, la transition numérique est une
+                            étape nécessaire pour accéder à un nouveau marché et de nouvelles opportunités. Cette
+                            transformation est une nécessité de nos jours pour toute entreprise. Elle permettre, par
+                            exemple, la dématérialisation de sa liste de clients et de ses fournisseurs. Aujourd’hui une
+                            entreprise qui n’a pas effectué ce passage en «2.0» rate de potentiel nouveau clients.</p>
                         <a href="content/articles/transformation_digitale.php" class="btn btn-outline-info">Voir l'article complet</a>
                         <p class="card-text"><small class="text-muted">Auteur : Loïc Mourlon / 17 Juillet 2019</small>
                         </p>

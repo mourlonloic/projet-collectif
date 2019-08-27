@@ -19,7 +19,7 @@
 
             <p><strong>Les CMS (comme WordPress) sont des programmes informatique utilisant une base de données et permettant de gérer de A et Z l’apparence et le contenu d’un site web, de façon plus ou moins accessible pour le grand public. Alors pourquoi débourser plus pour concevoir son site web et faire appel à des développeurs ?</strong></p>
 
-            <img class="mw-100" src="../images/cms_vs_code.jpg" alt="Illustration du cahier des charges">
+            <img class="mw-100" src="../images/cms_vs_code.jpg" alt="Illustration du cms vs code">
             <p class="text-center"><small>Auteur : Romain Devillez // Mis en ligne : 10 juillet 2019 // Temps de lecture : 3 minutes</small></p>
 
         <h4>Du côté WordPress</h4>

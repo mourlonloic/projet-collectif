@@ -33,7 +33,7 @@
             <div class="card" style="width: 21rem;">
                 <!-- icones -->
                 <div class="d-flex justify-content-center">
-                    <img src="content/images/icones/vitrine.png" width="100" height="100" alt="...">
+                    <img src="content/images/icones/vitrine.png" width="100" height="100" alt="Icone site vitrine">
                 </div>
                 <div class="card-body">
                     <h5 class="card-title">Création de site vitrine</h5>
@@ -49,7 +49,7 @@
             <div class="card" style="width: 21rem;">
                 <!-- icones -->
                 <div class="d-flex justify-content-center">
-                    <img src="content/images/icones/site_commerce.png" width="100" height="100" alt="...">
+                    <img src="content/images/icones/site_commerce.png" width="100" height="100" alt="Icone site e-commerce">
                 </div>
                 <div class="card-body">
                     <h5 class="card-title">Création de site e-commerce</h5>
@@ -66,7 +66,7 @@
             <div class="card" style="width: 21rem;">
                 <!-- icones -->
                 <div class="d-flex justify-content-center">
-                    <img src="content/images/icones/refonte.png" width="100" height="100" alt="...">
+                    <img src="content/images/icones/refonte.png" width="100" height="100" alt="Icone refonte de site">
                 </div>
                 <div class="card-body">
                     <h5 class="card-title">Refonte de site web</h5>
@@ -82,7 +82,7 @@
             <div class="card" style="width: 21rem;">
                 <!-- icones -->
                 <div class="d-flex justify-content-center">
-                    <img src="content/images/icones/landing_page.png" width="100" height="100" alt="...">
+                    <img src="content/images/icones/landing_page.png" width="100" height="100" alt="Icone landing page">
                 </div>
                 <div class="card-body">
                     <h5 class="card-title">Création de landing-page</h5>

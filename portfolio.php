@@ -35,13 +35,22 @@
             </ol>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="content/images/screen/screen.png" class="d-block w-90" alt="...">
+                    <img src="content/images/screen/screen.png" class="d-block w-100" alt="Page d'accueil du projet de wiki Zelda">
                 </div>
                 <div class="carousel-item">
-                    <img src="content/images/screen/screen_2.png" class="d-block w-90" alt="...">
+                    <img src="content/images/screen/screen_2.png" class="d-block w-100" alt="Page de selection wiki Zelda">
                 </div>
                 <div class="carousel-item">
-                    <img src="content/images/screen/screen_3.png" class="d-block w-90" alt="...">
+                    <img src="content/images/screen/screen_3.png" class="d-block w-100" alt="page de jeu du wiki Zelda">
+                </div>
+                <div class="carousel-item">
+                    <img src="content/images/screen/site_ro_1.png" class="d-block w-100" alt="page d'accueil du wiki Crash Bandicoot'">
+                </div>
+                <div class="carousel-item">
+                    <img src="content/images/screen/site_ro_2.png" class="d-block w-100" alt="page de contact du wiki Crash Bandicoot">
+                </div>
+                <div class="carousel-item">
+                    <img src="content/images/screen/site_ro_3.png" class="d-block w-100" alt="page de selection du jeu du wiki Crash Bandicoot">
                 </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">

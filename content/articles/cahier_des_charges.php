@@ -15,7 +15,7 @@
 
 <body>
     <div class="container">
-        <h3 class="text-center">Création du cachier des charges</h3>
+        <h3 class="text-center">Création du cahier des charges</h3>
 
             <p><strong>Le cahier des charges décrit précisément les besoins auxquels le prestataire doit répondre,
                     et organise la relation entre les différents acteurs tout au long d'un projet</strong></p>

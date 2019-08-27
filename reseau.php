@@ -34,7 +34,7 @@
             <div class="card" style="width: 21rem;">
                 <!-- icones -->
                 <div class="d-flex justify-content-center">
-                    <img src="content/images/icones/social_media.png" width="100" height="100" alt="...">
+                    <img src="content/images/icones/social_media.png" width="100" height="100" alt="Icone création de pages des réseaux sociaux">
                 </div>
                 <div class="card-body">
                     <h5 class="card-title">Creation des pages sur les RS</h5>
@@ -49,7 +49,7 @@
             <div class="card" style="width: 21rem;">
                 <!-- icones -->
                 <div class="d-flex justify-content-center">
-                    <img src="content/images/icones/community.png" width="100" height="100" alt="...">
+                    <img src="content/images/icones/community.png" width="100" height="100" alt="Icone Community Manager">
                 </div>
                 <div class="card-body">
                     <h5 class="card-title">Community managers</h5>

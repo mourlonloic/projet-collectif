@@ -28,7 +28,7 @@
                     class="wrap"></span></span><br>
             Nous concevons et développons des outils web et mobile.<br />
             Nous les rendons visibles et rentables.<br />
-            Nous aidons nos clients à gagner des clients sur l’Internet.<br />
+            Nous aidons nos clients à gagner des clients sur Internet.<br />
         </p>
     </div>
 

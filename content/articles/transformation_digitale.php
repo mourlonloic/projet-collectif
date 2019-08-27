@@ -20,7 +20,7 @@
 
             <p><strong>A l’image de la révolution industrielle, la transition numérique est une étape nécessaire pour accéder a un nouveau marché et de nouvelles  opportunitées. Cette transformation est une nécessité de nos jours pour toutes entreprises. Elle permettre, par exemple, la dématérialisation de sa liste de client et de ses fournisseurs. Aujourd’hui une entreprise qui n’a pas effectuer ce passage en «2.0» rate de potentiel nouveau clients.</strong></p>
 
-            <img class="mw-100" src="../images/transformation_digitale.jpg" alt="Illustration du cahier des charges">
+            <img class="mw-100" src="../images/transformation_digitale.jpg" alt="Illustration de la transformation digitale">
             <p class="text-center"><small>Auteur : Loïc Mourlon // Mis en ligne : 17 juillet 2019 // Temps de lecture : 5 minutes</small></p>
 
         <p>Avez- vous déjà dématérialisé votre carnet d’adresse ? si c’est le cas vous avez dû voir la gestion de votre clientèle se simplifier ! Mais pourquoi s’arrêter en si bon chemin quand d’autre poste de votre entreprise peuvent également se dématérialiser pour gagner en productivité et ainsi augmenter votre chiffre d’affaire ?
