@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="fr">
 
 <head>
     <!-- Required meta tags -->
@@ -29,7 +29,7 @@
 
                 <a href="accueil.php">
                     <p>Cliquez ici pour accéder a un nouveau monde</p>
-                    <p><img src="https://img.icons8.com/dotty/52/000000/thick-arrow-pointing-down.png"></p>
+                    <p><img src="https://img.icons8.com/dotty/52/000000/thick-arrow-pointing-down.png" alt="Flèche pointant vers le bas"></p>
 
                     <div class="spinner-border text-info " style="width: 5em; height: 5em;" role="status"></div>
 
