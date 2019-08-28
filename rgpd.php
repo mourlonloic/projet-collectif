@@ -19,7 +19,7 @@
     <?php include_once("header.php"); ?>
 
     <div class="titre">
-        <h1>Mention legale</h1>
+        <h1>Mentions legales</h1>
     </div>
 
     <div class="groupe_barette">
@@ -46,7 +46,7 @@
             Site Web : www.fivefoward.com <br>
         </p>
 
-        <h4>Conditions d'utilisation :</h4>
+        <h4>Conditions d'utilisations :</h4>
         <p>Ce site (www.fivefoward.com) est proposé en différents langages web (HTML, HTML5, Javascript, CSS, etc…) pour un meilleur confort d’utilisation et un graphisme plus agréable, nous vous recommandons de recourir à des navigateurs modernes comme Internet explorer, Safari, Firefox, Google Chrome, etc…</p>
 
         <p>La société www.fivefoward.com met en œuvre tous les moyens dont elle dispose, pour assurer une information fiable et une mise à jour fiable de ses sites internet. Toutefois, des erreurs ou omissions peuvent survenir. L’internaute devra donc s’assurer de l’exactitude des informations, et signaler toutes modifications du site qu’il jugerait utile. www.fivefoward.com n’est en aucun cas responsable de l’utilisation faite de ces informations, et de tout préjudice direct ou indirect pouvant en découler</p>

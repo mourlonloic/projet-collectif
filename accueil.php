@@ -5,14 +5,16 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content=" Accompagnement sur-mesure dédié aux professionnels, artisans,
+    commerçants et TPE par des experts du digital, pour une visibilité optimale sur le net.">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
     <link rel="stylesheet" href="content/css/style.css">
 
-    <title>Accueil Five Forward</title>
+    <title>Five Forward | Agence web et communication digitale à Lille.</title>
 </head>
 
 <body>
@@ -20,7 +22,7 @@
 
     <h1 id="cache_accueil">ACCUEIL</h1>
 
-    <video src="content/video/refonte_presentation.mp4"  loop="true" controls="true"></video>
+    <video src="content/video/refonte_presentation.mp4" muted autoplay loop></video>
 
     <div class="centrer_index">
         <p> Nous sommes <span href="" class="typewrite" data-period="2000"
@@ -74,7 +76,6 @@
                 <div class="card compteur" id="visite">
                     <img id="icone_visiteur" src="content/images/icones/visiteur.png" width="100" height="100" alt="icone_visiteur">
                     <?php include_once("content/php/compteur_visite.php"); ?>
-
                 </div>
             </div>
         </div>
@@ -86,9 +87,6 @@
         <p id="text_cookie" >En poursuivant votre navigation sur ce site, vous acceptez l'utilisation de traceurs (cookies) afin de réaliser des statistiques anonymes de visites, vous proposer des contenus et services adaptés à vos centres d'intérêts et vous permettre de partager des informations sur les réseaux sociaux. <button id="cookie_btn" class="cookie_btn">J'accepte</button></p>
     </div>
 </div>
-
-
-
 
     <?php include_once("footer.php"); ?>
 
@@ -106,16 +104,13 @@
 
     <!-- Cookie -->
 <script>
-
 var cookie = $("#cookie_btn");
 var barreCookie = $("#cookie_bloc")
 
 cookie.on("click", function(){
     barreCookie.hide();
 });
-
 </script>
 
 </body>
-
 </html>

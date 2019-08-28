@@ -90,7 +90,7 @@ if ($_SERVER['REQUEST_METHOD'] === "POST")
                     <div class="form-group">
                         <label for="objet">Objet</label>
                         <input name="objet" type="text" class="form-control" id="objet"
-                            placeholder="ex :demande de devis">
+                            placeholder="ex : demande de devis">
                     </div>
                     <div class="form-group">
                         <label for="exampleFormControlTextarea1">Contenu</label>
