@@ -19,7 +19,7 @@
     <?php include_once("header.php"); ?>
 
     <div class="titre">
-        <h1>Communication Digital</h1>
+        <h1>Communication Digitale</h1>
     </div>
 
     <div class="groupe_barette">

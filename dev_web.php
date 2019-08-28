@@ -19,7 +19,7 @@
     <?php include_once("header.php"); ?>
     
     <div class="titre">
-        <h1>Prestation Developpement Web</h1>
+        <h1> Developpement Web</h1>
     </div>
 
     <div class="groupe_barette">

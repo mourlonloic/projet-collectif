@@ -20,7 +20,7 @@
 
     <div class="titre">
         
-        <h1>Prestation Reseaux Sociaux </h1>
+        <h1>Reseaux Sociaux </h1>
     </div>
 
     <div class="groupe_barette">

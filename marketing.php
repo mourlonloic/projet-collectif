@@ -24,7 +24,7 @@
     <?php include_once("header.php"); ?>
 
     <div class="titre">
-        <h1>Prestation Marketing Digital</h1>
+        <h1>Marketing Digital</h1>
     </div>
 
     <div class="groupe_barette">
