@@ -1,4 +1,3 @@
-
 <footer>
     <div class="container">
         <div class="row ">
@@ -26,7 +25,7 @@
                 </p>
 
                 <button id="newsletter_btn" type="button" class="btn btn-outline-info" data-toggle="modal"
-                    data-target="#newsletter">Inscrivez-vous a notre newsletter</button>
+                    data-target="#newsletter">Inscrivez-vous à notre newsletter</button>
             </div>
 
             <div class="col-sm-3 ">
@@ -61,29 +60,18 @@
             <div class="modal-body">
                 <!-- Formulaire d'inscription a la newsletter -->
                 <form action="" method="post">
-                    <p>Choisissez a quelles newsletter s'inscrire : </p>
-                    <div class="form-check">
-                        <input class="form-check-input" type="checkbox" value="" id="newsletter1">
-                        <label class="form-check-label" for="newsletter1">
-                            Newsletter 1
-                        </label>
+                    <p>Choisissez à quelles newsletter s'inscrire : </p>
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Entrez votre adresse mail</label>
+                        <input type="email" name="newsletter" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
+                            placeholder="contact@fiveforward.fr">
                     </div>
-                    <div class="form-check">
-                        <input class="form-check-input" type="checkbox" value="" id="newsletter2">
-                        <label class="form-check-label" for="newsletter2">
-                            Newsletter 2
-                        </label>
-                    </div>
-
-
-
                 </form>
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Retour</button>
                 <button type="button" class="btn btn-primary" data-dismiss="modal">Valider mes choix</button>
             </div>
         </div>
     </div>
 </div>
-
